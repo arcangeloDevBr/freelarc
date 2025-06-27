@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Setup Docker Laravel 11 com PHP 8.3
 [Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
@@ -50,3 +51,7 @@ php artisan migrate
 
 Acesse o projeto
 [http://localhost:8000](http://localhost:8000)
+=======
+# freelarc
+Mini ERP para Freelancers
+>>>>>>> 338c317399f9feec4756a13d47e4e3867b45c031
